@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tesis.live
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Empresa dedicada a preparacion tesis
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Asesoria
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Capacitacion
+- Acesoria 
+- Sustentacion
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ingenierias
+    #institution: Stanford University
+    #year: 2012
+  - course: Medicina
+    #institution: Massachusetts Institute of Technology
+    #year: 2009
+  - course: Administracion y Contabilidad
+    #institution: Massachusetts Institute of Technology
+    #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Somos una organizacíon dedicada a brindar apoyo a los estudiantes para obtener los resultados deseados y exitosos; para ello requieren una ayuda de un equipo altamente calificado el cual les brinda Tesis.live  se encarga de analizar cada caso y brindar a un experto en la materia expecifica con la finalidad de brindar el apoyo adecuado y dedicacion al 100% en tu proceso academico .
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+
+
+

@@ -6,7 +6,11 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
+<<<<<<< HEAD
 title = "Tesis.live"
+=======
+title = "Academic1"
+>>>>>>> 01ceba24277f5acb9e409cd96b6dc94f9ff9b1c0
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
