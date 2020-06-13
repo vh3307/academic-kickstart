@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Tesis.live"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -27,7 +27,7 @@ theme = "academic"
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+defaultContentLanguage = "es"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
@@ -58,7 +58,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Configure the Markdown renderer.
 [markup]
-  defaultMarkdownHandler = "goldmark"
+  defaultMarkdownHandler = "Goldmark"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content.
@@ -88,7 +88,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
   [[related.indices]]
     name = "title"
-    weight = 60.0
+    weight = 20.0
 
   [[related.indices]]
     name = "summary"
