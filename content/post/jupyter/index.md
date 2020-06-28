@@ -1,15 +1,8 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
-authors:
-- admin
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-lastMod: "2019-09-05T00:00:00Z"
-featured: false
-draft: false
+title: Trabajos
+subtitle: Asesoramos en todo tipo de trabajos, tanto ejercicios, pruebas, hasta memorias y tesis.
+summary: Asesoramos en todo tipo de trabajos, tanto ejercicios, pruebas, hasta memorias y tesis.
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

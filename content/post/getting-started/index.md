@@ -1,20 +1,9 @@
 ---
-title: 'Academic: the website builder for Hugo'
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
-summary: Create a beautifully simple website in under 10 minutes.
-authors:
-- admin
-- 吳恩達
-tags:
-- Academic
-- 开源
-categories:
-- Demo
-- 教程
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
-featured: false
-draft: false
+title: 'Tesis'
+subtitle: 'Te asesoramos en tu proyecto de título desde la elección del tema hasta la entrega final.'
+summary: Te asesoramos en tu proyecto de título desde la elección del tema hasta la entrega final.
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
