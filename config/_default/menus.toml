@@ -9,29 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Acerca de "
+  name = "Servicios "
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Servicios"
+  name = "Proyectos"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Proyectos"
+  name = "Publicaciones"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Cursos"
-  url = "courses/"
-  weight = 50
-
-[[main]]
   name = "Contactanos"
   url = "#contact"
-  weight = 60
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
