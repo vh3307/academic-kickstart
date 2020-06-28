@@ -1,9 +1,9 @@
 ---
-title: "An example conference paper"
+title: "Luciana Pereira"
 authors:
 - admin
 - Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: " 2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,26 +19,15 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Una graduación es resultado del esfuerzo, constancia y disciplina que se ha puesto en el objetivo de terminar una carrera. Sin duda es un evento que no debe pasar desapercibido, y las palabras y frases de graduación siempre serán muy bienvenidas..
 
 tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,14 +51,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
